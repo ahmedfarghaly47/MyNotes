@@ -15,7 +15,7 @@ class NotesView extends StatelessWidget {
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(25),
               ),
-              backgroundColor: secondaryColor.withValues(alpha: 0.8),
+              backgroundColor: buttomSheetColor,
               context: context,
               builder: (context) {
                 return AddNoteButtomSheet();
