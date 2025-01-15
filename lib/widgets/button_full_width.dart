@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mynotes/global.dart';
+import 'package:mynotes/constants.dart';
 
 class ButtonFullWidth extends StatelessWidget {
   const ButtonFullWidth({super.key});

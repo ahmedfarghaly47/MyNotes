@@ -11,3 +11,5 @@ const textFieldColior = Color(0xFF62FCD7);
 const primaryColor = Color.fromARGB(255, 100, 13, 20);
 const secondaryColor = Color.fromARGB(255, 128, 14, 19);
 const backColor = Color.fromARGB(255, 255, 230, 167);
+
+const notesBox = 'note_box';

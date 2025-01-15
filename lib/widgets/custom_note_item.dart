@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:mynotes/global.dart';
+import 'package:mynotes/constants.dart';
 import 'package:mynotes/views/edit_note_view.dart';
 
 class NoteItem extends StatelessWidget {
